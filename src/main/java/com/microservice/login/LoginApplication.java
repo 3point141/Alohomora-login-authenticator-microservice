@@ -1,5 +1,6 @@
 package com.microservice.login;
 
+import com.microservice.login.service.LoginService;
 import com.microservice.login.utility.CommandLineArguments;
 import com.microservice.login.utility.CommandLineParser;
 import org.springframework.boot.SpringApplication;
