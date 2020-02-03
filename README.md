@@ -34,7 +34,7 @@ Login pages are always the first thing we make when we start a project. meh! �
  
  ### Steps ⊂二二二（　＾ω＾）二⊃
 ```
-* Clone the repository : git clone https://github.com/3point141/login-authenticator-microservice.git
+* Clone the repository : git clone https://github.com/3point141/Alohomora-login-authenticator-microservice.git
 * At the root directory of project run : mvn clean install -DskipTests
 ```
 Now you have generated the jar file in the <b>target</b> folder. <br>
