@@ -2,7 +2,7 @@
 A microservice which authenticates a login.
 
 # About Project
-Login pages are always the first thing we make when we start a project. meh! 😪<br> Honestly, it consumes unnecessary time and repeted effort. To get rid of this I present you, <b>Alohomora</b> - A small microservice which just needs your DB credentials to start validating your logins for you.
+Login pages are always the first thing we make when we start a project. meh! 😪<br> Honestly, it consumes unnecessary time and repetitive effort. To get rid of this I present you, <b>Alohomora</b> - A small microservice which just needs your DB credentials to start validating your logins for you.
 
 # Just an api call. That's all you need 😍
 ```
