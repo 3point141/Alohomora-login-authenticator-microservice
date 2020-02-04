@@ -1,5 +1,5 @@
 # Alohomora
-A microservice which authenticate a login.
+A microservice which authenticates a login.
 
 # About Project
 Login pages are always the first thing we make when we start a project. meh! 😪<br> Honestly, it consumes unnecessary time and repeted effort. To get rid of this I present you, <b>Alohomora</b> - A small microservice which just needs your DB credentials to start validating your logins for you.
@@ -45,7 +45,7 @@ java -jar Alohomora-1.0.jar -d <database connection url> -u <username> -p <passw
 
 | CommandLine Argument  | Purpose |
 |----|-------|
-| -d| Databse Connection URL |
+| -d| Database Connection URL |
 | -u | Username required to login the database |
 | -p | Password required to login the database |
 
@@ -62,5 +62,5 @@ LOL Working on containerising the application. Just few more days ☕
 
 
 # Author
-Made with ❤️ by [Aman Kumar](https://github.com/3point141)
-:zap: This project is in very early stage. Some bugs can be noticed very frequently. Feel free to test is and report the bugs. 
+Made with ❤️ by [Aman Kumar](https://github.com/3point141)<br>
+:zap: This project is in very early stage. Some bugs can be noticed frequently. Feel free to test and report the bugs. 
