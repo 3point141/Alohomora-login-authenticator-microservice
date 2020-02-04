@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.microservice</groupId>
-	<artifactId>login</artifactId>
-	<version>login1.0</version>
-	<name>login</name>
+	<artifactId>Alohomora</artifactId>
+	<version>1.0</version>
+	<name>Alohomora</name>
 	<description>Login Microservice By Aman</description>
 
 	<properties>
